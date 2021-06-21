@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MundiAPI.PCL", "MundiAPI.PCL\MundiAPI.PCL.csproj", "{2735ADD7-8E40-40ED-942D-6CD6A933129A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2735ADD7-8E40-40ED-942D-6CD6A933129A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2735ADD7-8E40-40ED-942D-6CD6A933129A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2735ADD7-8E40-40ED-942D-6CD6A933129A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2735ADD7-8E40-40ED-942D-6CD6A933129A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {708981F4-B55A-4A77-B03A-88EBCAD48106}
+	EndGlobalSection
+EndGlobal
